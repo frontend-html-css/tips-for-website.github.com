@@ -1,1 +1,1 @@
-# tips-for-website.github.com
+# tips-for-website.github.io
